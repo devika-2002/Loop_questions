@@ -1,0 +1,61 @@
+# # # question-1 ????????????/
+# c=0
+# d=1
+# while c<3:
+#     c=c+1
+#     d=d*c
+#     print("loop ke andar",c,d)
+# else:
+#     print("loop ke bahar ",c,d)
+
+# # # question-2 ????????????????????
+# n=6
+# s=0
+# i=1
+# while i<=n:
+#     s=s+i
+#     i=i+1
+#     print(s)
+
+ ## # question-3 ????????????????????
+# num=int(input("enter the number"))
+# i=2
+# while i<=10:
+#     if num%i==0:
+#         print(num,"is a not prime number")
+#     else:
+#         print(num,"is a  prime number")
+#     i=i+1
+#     break
+   
+# i=1
+# while i<=5:
+#     j=1
+#     while j<=4:
+#         print("*",end=" ")
+#         j=j+1
+#     print()
+#     i=i+1
+
+# # # question-4 ????????????????????#
+# i=0
+# while(i<5):
+#  j=0
+#  while(j<5): 
+#   if (j > 3): 
+#    break 
+#   else:
+#    print("*",end=" ") 
+#   j=j+1 
+#  print('')
+#  i=i+1
+
+
+# # # question-5 ??????????????????????????###
+# x = 0
+# while(x<7):
+#  if (x == 3 or x==5):
+#   x = x + 1
+#   continue
+#  print(x)
+#  x = x + 1
