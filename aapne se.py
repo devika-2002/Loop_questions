@@ -4,7 +4,7 @@
 #     i=i-1
 
 
-# # 100 se ulta  1 ulta print krega 
+# 100 se ulta  1 ulta print krega 
 # i=100
 # while i>=1:
 #     i=i+i
