@@ -7,9 +7,9 @@
   
 
 # # 10 ka tabel print() krana hai
-# i=1
-# j=10
-# while i<=10:
-#     print(j,"*",i,"=",j*i)
-#     i=i+1
+i=int(input("num:="))
+j=int(input("enter the number:-"))
+while i<=10:
+    print(j,"*",i,"=",j*i)
+    i=i+1
 
